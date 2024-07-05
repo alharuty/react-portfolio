@@ -1,2 +1,2 @@
-# REACT portfolio Application by Alla Harutyunyan
+# REACT portfolio Application by @allharuty
 
